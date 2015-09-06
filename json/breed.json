@@ -10,7 +10,7 @@
         "height": "43-48",
         "litter_size": "4-8",
         "remarks": "agressive toward other dogs",
-	"group":"working",
+	"grp":"working",
 	"size":"medium",
 	"thumbnail":"https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_thumbnails/american-staffordshire-terrier-th.jpg",
 	"image":"https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_images/american-staffordshire-terrier.jpg"
@@ -26,7 +26,7 @@
         "height": "33-41",
         "litter_size": "3-6",
         "remarks": "hard to train",
-	"group":"hound",
+	"grp":"hound",
 	"size":"small",
 	"thumbnail":"https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_thumbnails/beagle-puppy-th.jpg",
 	"image":"https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_images/beagle.jpg"
@@ -42,7 +42,7 @@
         "height": "58-70",
         "litter_size": "4-10",
         "remarks": "easy to train",
-	"group":"working",
+	"grp":"working",
 	"size":"large",
 	"thumbnail":"https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_thumbnails/bernese-mountain-dog-th.jpg",
 	"image":"https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_images/bernese-mountain.jpg"
@@ -58,7 +58,7 @@
         "height": "30 - 40",
         "litter_size": "3-6",
         "remarks": "family friendly",
-	"group":"non-sporting",
+	"grp":"non-sporting",
 	"size":"medium",
 	"thumbnail":"https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_thumbnails/bulldog-th.jpg",
 	"image":"https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_images/bulldog.jpg"
@@ -74,7 +74,7 @@
         "height": "45–55",
         "litter_size": "1-9",
         "remarks": "family friendly",
-	"group":"terrier",
+	"grp":"terrier",
 	"size":"medium",
 	"thumbnail":"https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_thumbnails/bullterrier-th.jpg",
 	"image":"https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_images/bullterrier.jpg"
@@ -90,7 +90,7 @@
         "height": "30–33 cm",
         "litter_size": "2-6",
         "remarks": "easy to train",
-	"group":"toy",
+	"grp":"toy",
 	"size":"small",
         "thumbnail": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_thumbnails/cavalier_spaniel.jpg",
         "image": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_images/cavalier_spaniel.jpg"
@@ -106,7 +106,7 @@
         "height": "15–25 cm",
         "litter_size": "2-5",
         "remarks": "agressive toward other dogs and animals",
-	"group":"toy",
+	"grp":"toy",
 	"size":"small",
         "thumbnail": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_thumbnails/chihuahua-th.jpg",
         "image": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_images/chihuahua.jpg"
@@ -122,7 +122,7 @@
         "height": "17-25 cm",
         "litter_size": "1-5",
         "remarks": "appropriate for apartments, symbol of Germany",
-	"group":"hound",
+	"grp":"hound",
 	"size":"small",
         "thumbnail": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_thumbnails/dachshund-th.jpg",
         "image": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_images/dachshund.jpg"
@@ -138,7 +138,7 @@
         "height": "56-61 cm",
         "litter_size": "6-9",
         "remarks": "Appropriate for flats, easy to train",
-	"group":"non-sporting",
+	"grp":"non-sporting",
 	"size":"medium",
         "thumbnail": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_thumbnails/dalmatian-th.jpg",
         "image": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_images/dalmatian.jpg"
@@ -154,7 +154,7 @@
         "height": "28-31 cm",
         "litter_size": "3-5",
         "remarks": "This breed is patient and affectionate with its owners, especially with children, who are especially protected by the females.",
-	"group":"non-sporting",
+	"grp":"non-sporting",
 	"size":"small",
         "thumbnail": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_thumbnails/french_buldog-th.jpg",
         "image": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_images/french_buldog.jpg"
@@ -170,7 +170,7 @@
         "height": "55–65 cm",
         "litter_size": "4-9",
         "remarks": "especially well known for their police work, being used for tracking criminals, patrolling troubled areas and  detection and holding of suspects",
-	"group":"herding",
+	"grp":"herding",
 	"size":"large",
         "thumbnail": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_thumbnails/german-shepherd-th.jpg",
         "image": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_images/german-shepherd.jpg"
@@ -186,7 +186,7 @@
         "height": "55-61 cm",
         "litter_size": "4-8",
         "remarks": " well suited to residency in suburban or country environments;patient with children.",
-	"group":"sporting",
+	"grp":"sporting",
 	"size":"medium",
         "thumbnail": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_thumbnails/golden-retriever-th.jpg",
         "image": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_images/golden-retriever.jpg"
@@ -202,7 +202,7 @@
         "height": "70-110cm",
         "litter_size": "8-15",
         "remarks": "The Great Dane is a very gentle and loving animal and with the proper care and training is great around children",
-	"group":"working",
+	"grp":"working",
 	"size":"large",
         "thumbnail": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_thumbnails/greatdane-th.jpg",
         "image": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_images/greatdane.jpg"
@@ -218,7 +218,7 @@
         "height": "55-67 cm",
         "litter_size": "4-8",
         "remarks": "widely used as therapy dogs in schools and hospitals",
-	"group":"sporting",
+	"grp":"sporting",
 	"size":"medium",
         "thumbnail": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_thumbnails/seter-th.jpg",
         "image": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_images/seter.jpg"
@@ -234,7 +234,7 @@
         "height": "55-62",
         "litter_size": "5-10",
         "remarks": "for runners and cyclists, home with garden",
-	"group":"sporting",
+	"grp":"sporting",
 	"size":"medium",
 	"thumbnail": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_thumbnails/yellow-labrador-retriever-th.jpg",
         "image": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_images/yellow-labrador-retriever.jpg"
@@ -250,7 +250,7 @@
         "height": "28-45 cm",
         "litter_size": "3-8",
         "remarks": "easy to train",
-	"group":"non-sporting",
+	"grp":"non-sporting",
 	"size":"medium",
         "thumbnail": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_thumbnails/poodle-th.jpg",
         "image": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_images/poodle.jpg"
@@ -266,7 +266,7 @@
         "height": "25-35 cm",
         "litter_size": "4-8",
         "remarks": "easy to train,appropriate for apartments",
-	"group":"toy",
+	"grp":"toy",
 	"size":"small",
         "thumbnail": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_thumbnails/mops-th.jpg",
         "image": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_images/mops.jpg"
@@ -282,7 +282,7 @@
         "height": "55-69 cm",
         "litter_size": "8-12",
         "remarks": "tend to be more aggressive than average toward strangers.",
-	"group":"working",
+	"grp":"working",
 	"size":"medium",
         "thumbnail": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_thumbnails/rottweiler-th.jpg",
         "image": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_images/rottweiler.jpg"
@@ -298,7 +298,7 @@
         "height": "52-66 cm",
         "litter_size": "5-6",
         "remarks": "active outside, calm indoors;",
-	"group":"herding",
+	"grp":"herding",
 	"size":"medium",
         "thumbnail": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_thumbnails/colie-th.jpg",
         "image": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_images/collie.jpg"
@@ -314,7 +314,7 @@
         "height": "70-90 cm",
         "litter_size": "2-10",
         "remarks": "rescue dog",
-	"group":"working",
+	"grp":"working",
 	"size":"large",
         "thumbnail": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_thumbnails/saint-bernard-th.jpg",
         "image": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_images/saint-bernard.jpg"
@@ -330,7 +330,7 @@
         "height": "45-60 cm",
         "litter_size": "4-6",
         "remarks": "Nicknamed Sammiesmile and smileydog due to  characteristic happy expression.",
-	"group":"working",
+	"grp":"working",
 	"size":"medium",
         "thumbnail": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_thumbnails/samoyed-th.jpg",
         "image": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_images/samoyed.jpg"
@@ -346,7 +346,7 @@
         "height": "30-70 cm",
         "litter_size": "3-6",
         "remarks": "easy ro train, home with garden",
-	"group":"working",
+	"grp":"working",
 	"size":"medium",
         "thumbnail": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_thumbnails/schnauzer-th.jpg",
         "image": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_images/schnauzer.jpg"
@@ -362,7 +362,7 @@
         "height": "51-60 cm",
         "litter_size": "6-8",
         "remarks": "The Chukchi people use Siberian huskies to look after their children.",
-	"group":"working",
+	"grp":"working",
 	"size":"medium",
         "thumbnail": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_thumbnails/siberianhusky-th.jpg",
         "image": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_images/siberian-husky.jpg"
@@ -378,7 +378,7 @@
         "height": "43-48 cm",
         "litter_size": "1-4",
         "remarks": "for runners and cyclists",
-	"group":"sporting",
+	"grp":"sporting",
 	"size":"medium",
         "thumbnail": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_thumbnails/springer-spaniel-th.jpg",
         "image": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_images/springer-spaniel.jpg"
@@ -394,7 +394,7 @@
         "height": "25-28 cm",
         "litter_size": "3-5",
         "remarks": "tends to be highly interested in toys especially chasing balls.",
-	"group":"terrier",
+	"grp":"terrier",
 	"size":"small",
         "thumbnail": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_thumbnails/westie-th.jpg",
         "image": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_images/westie.jpg"
@@ -410,7 +410,7 @@
         "height": "22-24 cm",
         "litter_size": "1-5",
         "remarks": "not be suitable for a home with young children, perfect for older families.",
-	"group":"toy",
+	"grp":"toy",
 	"size":"small",
         "thumbnail": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_thumbnails/yorkshire-terrier-th.jpg",
         "image": "https://raw.githubusercontent.com/SebastianGK/BreedTest/master/breed_images/yorkshire-terrier.jpg"
